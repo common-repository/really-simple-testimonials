@@ -1,0 +1,76 @@
+
+.rst_frontend_form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 30px;
+}
+
+.rst_frontend_form input {
+    font-size: 16px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+
+}
+
+.rst_frontend_form input:focus {
+    border: 2px solid #555;
+}
+
+.rst_frontend_form textarea {
+    border-radius: 5px;
+    width: 100%;
+    font-size: 16px!important;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+.rst_frontend_form textarea:focus {
+    border: 2px solid #555;
+}
+
+
+
+.rst_frontend_form label {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.rst_frontend_form select{
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+.rst_frontend_form select:focus {
+    border: 2px solid #555;
+}
+
+.rst_frontend_form input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

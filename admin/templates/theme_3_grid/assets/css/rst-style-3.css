@@ -1,0 +1,225 @@
+
+.rst_container_box_theme_3{
+    max-width: 100%!important;
+}
+
+
+.rst-author-rating.rst-mt-3 {
+    margin-top: 20px!important;
+    margin-bottom: 20px!important;
+    display: flex;
+    align-items: center;
+    justify-content: center!important;
+
+}
+
+
+.rst_container_box_theme_3 .rst-author-name {
+    margin-top: 14px;
+}
+
+
+.rst_container_box_theme_3 h1,
+.rst_container_box_theme_3 h2,
+.rst_container_box_theme_3 h3,
+.rst_container_box_theme_3 h4,
+.rst_container_box_theme_3 h5,
+.rst_container_box_theme_3 h6
+ {
+    margin: 0;
+    line-height: 120%;
+}
+
+.rst_container_box_theme_3 p {
+    margin: 0;
+    line-height: 140%;
+}
+
+*,
+.rst_container_box_theme_3 ::after,
+.rst_container_box_theme_3 ::before {
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: currentColor
+}
+
+
+
+[role=button],
+button {
+    cursor: pointer
+}
+
+
+.rst_container_box_theme_3 a {
+    color: inherit;
+    text-decoration: inherit
+}
+
+
+
+
+
+.rst_container_box_theme_3 .rst-container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 1rem;
+    padding-left: 1rem
+}
+
+@media (min-width:640px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 640px
+    }
+}
+
+@media (min-width:768px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 768px
+    }
+}
+
+@media (min-width:1024px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1024px
+    }
+}
+
+@media (min-width:1280px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1280px
+    }
+}
+
+@media (min-width:1536px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1536px
+    }
+}
+
+.rst-container {
+    max-width: 100%
+}
+
+@media (min-width:640px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 610px
+    }
+}
+
+@media (min-width:768px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 750px
+    }
+}
+
+@media (min-width:1024px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1000px
+    }
+}
+
+@media (min-width:1280px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1200px
+    }
+}
+
+@media (min-width:1536px) {
+    .rst_container_box_theme_3 .rst-container {
+        max-width: 1316px
+    }
+}
+
+.rst_container_box_theme_3 .rst-mt-4 {
+    margin-top: 1rem
+}
+
+.rst_container_box_theme_3 .rst-mt-3 {
+    margin-top: .75rem
+}
+
+.rst_container_box_theme_3 .rst-mr-1 {
+    margin-right: .25rem
+}
+
+.rst_container_box_theme_3 .rst-inline-block {
+    display: inline-block
+}
+
+.rst_container_box_theme_3 .flex {
+    display: flex
+}
+
+.rst_container_box_theme_3 .rst_author_image {
+    height: 80px!important;
+    width: 80px!important;
+
+}
+
+
+.rst_container_box_theme_3 .rst-flex-col {
+    flex-direction: column
+}
+
+.rst_container_box_theme_3 .rst-gap-10 {
+    gap: 2.5rem
+}
+
+.rst_container_box_theme_3 .rst-rounded-full {
+    border-radius: 9999px
+}
+
+.rst_container_box_theme_3 .rst-pt-20 {
+    padding-top: 5rem
+}
+
+.rst_container_box_theme_3 .rst-text-center {
+    text-align: center
+}
+
+.rst_container_box_theme_3 .rst-text-xl {
+    font-size: 1.25rem
+}
+
+.rst_container_box_theme_3 .rst_author_position_thm_6 {
+    font-size: 1rem
+}
+
+
+
+.rst_container_box_theme_3 .rst-font-bold {
+    font-weight: 700
+}
+
+.rst_container_box_theme_3 .rst-text-coolGray-900 {
+    --tw-text-opacity: 1;
+    color: rgba(17, 24, 39, var(--tw-text-opacity))
+}
+
+.rst_container_box_theme_3 .rst-text-coolGray-600 {
+    --tw-text-opacity: 1;
+    color: rgba(75, 85, 99, var(--tw-text-opacity))
+}
+
+.rst_container_box_theme_3 .rst-opacity-60 {
+    opacity: 60%
+}
+
+@media (min-width:640px) {
+    .rst_container_box_theme_3 .sm\:rst-grid {
+        display: grid
+    }
+
+    .rst_container_box_theme_3 .sm\:rst-grid-cols-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr))
+    }
+}
+
+@media (min-width:1024px) {
+    .rst_container_box_theme_3 .lg\:rst-grid-cols-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr))
+    }
+}

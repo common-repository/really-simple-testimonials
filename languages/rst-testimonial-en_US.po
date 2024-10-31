@@ -1,0 +1,1143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RST Testimonial\n"
+"POT-Creation-Date: 2022-11-22 14:52+0600\n"
+"PO-Revision-Date: 2022-11-22 14:52+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rst-testimonial.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/admin-shortcode.php:13 admin/admin-shortcode.php:30
+msgid "Generate Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:24
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: admin/admin-shortcode.php:25
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: admin/admin-shortcode.php:26 admin/admin-testimonial.php:16
+#: admin/admin-testimonial.php:27
+msgid "Testimonials"
+msgstr ""
+
+#: admin/admin-shortcode.php:27
+msgid "Parent Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:28
+msgid "All Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:29
+msgid "View Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:31
+msgid "Generate New Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:32 admin/admin-testimonial.php:20
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/admin-shortcode.php:33
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/admin-shortcode.php:34
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/admin-shortcode.php:35
+msgid "Not Found"
+msgstr ""
+
+#: admin/admin-shortcode.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/admin-shortcode.php:41
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:42
+msgid "Shortcode news and reviews"
+msgstr ""
+
+#: admin/admin-shortcode.php:71 admin/admin-shortcode.php:255
+msgid "Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:72
+msgid "Template Shortcode"
+msgstr ""
+
+#: admin/admin-shortcode.php:73 admin/admin-testimonial.php:106
+msgid "Date"
+msgstr ""
+
+#: admin/admin-shortcode.php:107
+msgid "Testimonial Settings"
+msgstr ""
+
+#: admin/admin-shortcode.php:219
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/admin-shortcode.php:222
+msgid "Testimonial Query "
+msgstr ""
+
+#: admin/admin-shortcode.php:225
+msgid "General Settings "
+msgstr ""
+
+#: admin/admin-shortcode.php:228 admin/admin-shortcode.php:1326
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/admin-shortcode.php:232
+msgid "Support & Doc"
+msgstr ""
+
+#: admin/admin-shortcode.php:256
+msgid "Use a unique shortcode only one time in same page / post"
+msgstr ""
+
+#: admin/admin-shortcode.php:257
+msgid ""
+"Copy this shortcode and paste on post, page or text widgets where you want "
+"to display Testimonial Showcase."
+msgstr ""
+
+#: admin/admin-shortcode.php:261
+msgid "PHP Code:"
+msgstr ""
+
+#: admin/admin-shortcode.php:262
+msgid "Use PHP code to your themes file to display Testimonial Showcase."
+msgstr ""
+
+#: admin/admin-shortcode.php:279
+msgid "Testimonial Query"
+msgstr ""
+
+#: admin/admin-shortcode.php:284 admin/admin-testimonial.php:67
+#: admin/admin-testimonial.php:105 admin/rst-user-form-options.php:175
+msgid "Categories"
+msgstr ""
+
+#: admin/admin-shortcode.php:306
+msgid ""
+"Categories Names only show when you publish testimonial under any "
+"categories. You can select multiple categories if you want."
+msgstr ""
+
+#: admin/admin-shortcode.php:313
+msgid "Select Theme"
+msgstr ""
+
+#: admin/admin-shortcode.php:321
+msgid "Theme 1 (Slider)"
+msgstr ""
+
+#: admin/admin-shortcode.php:325
+msgid "Theme 2 (Slider)"
+msgstr ""
+
+#: admin/admin-shortcode.php:330
+msgid "Theme 3 (Slider)"
+msgstr ""
+
+#: admin/admin-shortcode.php:334
+msgid "Theme 4 (Slider)"
+msgstr ""
+
+#: admin/admin-shortcode.php:338
+msgid "Theme 5 (Slider)"
+msgstr ""
+
+#: admin/admin-shortcode.php:342
+msgid "Theme 6 (Grid)"
+msgstr ""
+
+#: admin/admin-shortcode.php:347
+msgid "Theme 7 (Grid)"
+msgstr ""
+
+#: admin/admin-shortcode.php:351
+msgid "Theme 8 (Grid)"
+msgstr ""
+
+#: admin/admin-shortcode.php:356
+msgid "Theme 9 (Grid)"
+msgstr ""
+
+#: admin/admin-shortcode.php:360
+msgid "Theme 10 (Grid)"
+msgstr ""
+
+#: admin/admin-shortcode.php:369
+msgid "Select a theme to display testimonials."
+msgstr ""
+
+#: admin/admin-shortcode.php:440
+msgid "Display Total Items"
+msgstr ""
+
+#: admin/admin-shortcode.php:449
+msgid "Choose maximum number of items you want to display"
+msgstr ""
+
+#: admin/admin-shortcode.php:455
+msgid "Order By"
+msgstr ""
+
+#: admin/admin-shortcode.php:461 admin/rst-user-form-options.php:98
+msgid "Title"
+msgstr ""
+
+#: admin/admin-shortcode.php:464
+msgid "Modified"
+msgstr ""
+
+#: admin/admin-shortcode.php:467
+msgid "Rand"
+msgstr ""
+
+#: admin/admin-shortcode.php:470
+msgid "Popularity"
+msgstr ""
+
+#: admin/admin-shortcode.php:472
+msgid "Order testimonials By (Title, Modified, Random or Popularity)."
+msgstr ""
+
+#: admin/admin-shortcode.php:478
+msgid "Image Sizes"
+msgstr ""
+
+#: admin/admin-shortcode.php:484
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/admin-shortcode.php:487
+msgid "Medium"
+msgstr ""
+
+#: admin/admin-shortcode.php:490
+msgid "Medium large"
+msgstr ""
+
+#: admin/admin-shortcode.php:493
+msgid "Large"
+msgstr ""
+
+#: admin/admin-shortcode.php:496
+msgid "Full"
+msgstr ""
+
+#: admin/admin-shortcode.php:498
+msgid "Choose an image size to display perfectly"
+msgstr ""
+
+#: admin/admin-shortcode.php:520
+msgid "General Settings"
+msgstr ""
+
+#: admin/admin-shortcode.php:525
+msgid "Text Align"
+msgstr ""
+
+#: admin/admin-shortcode.php:533 admin/admin-shortcode.php:1651
+msgid "Left"
+msgstr ""
+
+#: admin/admin-shortcode.php:534 admin/admin-shortcode.php:545
+#: admin/admin-shortcode.php:663 admin/admin-shortcode.php:782
+#: admin/admin-shortcode.php:912 admin/admin-shortcode.php:969
+#: admin/admin-shortcode.php:1127 admin/admin-shortcode.php:1427
+#: admin/admin-shortcode.php:1504
+msgid "Pro"
+msgstr ""
+
+#: admin/admin-shortcode.php:539 admin/admin-shortcode.php:1656
+msgid "Center"
+msgstr ""
+
+#: admin/admin-shortcode.php:544 admin/admin-shortcode.php:1661
+msgid "Right"
+msgstr ""
+
+#: admin/admin-shortcode.php:547
+msgid "Choose an option for the alignment of testimonials content."
+msgstr ""
+
+#: admin/admin-shortcode.php:556
+msgid "Name Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:563
+msgid "Name Font Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:572
+msgid "Pick a color for testimonial givers name."
+msgstr ""
+
+#: admin/admin-shortcode.php:578
+msgid "Name Font Size"
+msgstr ""
+
+#: admin/admin-shortcode.php:588
+msgid "Choose a font size for testimonial name."
+msgstr ""
+
+#: admin/admin-shortcode.php:594
+msgid "Name Text Transform"
+msgstr ""
+
+#: admin/admin-shortcode.php:600 admin/admin-shortcode.php:623
+#: admin/admin-shortcode.php:844 admin/admin-shortcode.php:874
+#: admin/admin-shortcode.php:1078 admin/admin-shortcode.php:1274
+msgid "Default"
+msgstr ""
+
+#: admin/admin-shortcode.php:603 admin/admin-shortcode.php:847
+msgid "Capitalize"
+msgstr ""
+
+#: admin/admin-shortcode.php:606 admin/admin-shortcode.php:850
+msgid "Lowercase"
+msgstr ""
+
+#: admin/admin-shortcode.php:609 admin/admin-shortcode.php:853
+msgid "Uppercase"
+msgstr ""
+
+#: admin/admin-shortcode.php:611
+msgid "Select Name Text Transform"
+msgstr ""
+
+#: admin/admin-shortcode.php:617
+msgid "Name Text Style"
+msgstr ""
+
+#: admin/admin-shortcode.php:626 admin/admin-shortcode.php:877
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-shortcode.php:628
+msgid "Select Name Text style"
+msgstr ""
+
+#: admin/admin-shortcode.php:641
+msgid "Image Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:649
+msgid "Image Option"
+msgstr ""
+
+#: admin/admin-shortcode.php:657 admin/admin-shortcode.php:776
+#: admin/admin-shortcode.php:906 admin/admin-shortcode.php:963
+#: admin/admin-shortcode.php:1121 admin/admin-shortcode.php:1197
+msgid "Show"
+msgstr ""
+
+#: admin/admin-shortcode.php:662 admin/admin-shortcode.php:781
+#: admin/admin-shortcode.php:911 admin/admin-shortcode.php:968
+#: admin/admin-shortcode.php:1126 admin/admin-shortcode.php:1202
+msgid "Hide"
+msgstr ""
+
+#: admin/admin-shortcode.php:665
+msgid ""
+"Choose one option whether you want to show or hide the image of testimonial "
+"giver."
+msgstr ""
+
+#: admin/admin-shortcode.php:673
+msgid "Image Border Width"
+msgstr ""
+
+#: admin/admin-shortcode.php:689
+msgid "Image Border Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:698
+msgid "Pick a color for image border."
+msgstr ""
+
+#: admin/admin-shortcode.php:706
+msgid "Image Border Radius"
+msgstr ""
+
+#: admin/admin-shortcode.php:714
+msgid "50%"
+msgstr ""
+
+#: admin/admin-shortcode.php:718
+msgid "0%"
+msgstr ""
+
+#: admin/admin-shortcode.php:723
+msgid "10%"
+msgstr ""
+
+#: admin/admin-shortcode.php:726
+msgid "15%"
+msgstr ""
+
+#: admin/admin-shortcode.php:729
+msgid "20%"
+msgstr ""
+
+#: admin/admin-shortcode.php:732
+msgid "25%"
+msgstr ""
+
+#: admin/admin-shortcode.php:735
+msgid "30%"
+msgstr ""
+
+#: admin/admin-shortcode.php:738
+msgid "40%"
+msgstr ""
+
+#: admin/admin-shortcode.php:743
+msgid "80%"
+msgstr ""
+
+#: admin/admin-shortcode.php:747
+msgid "100%"
+msgstr ""
+
+#: admin/admin-shortcode.php:749
+msgid "Select an option for border radius of the images."
+msgstr ""
+
+#: admin/admin-shortcode.php:761
+msgid "Designation Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:768
+msgid "Designation Option"
+msgstr ""
+
+#: admin/admin-shortcode.php:784 admin/admin-shortcode.php:971
+msgid ""
+"Choose one option whether you want to show or hide the designation of "
+"testimonial giver."
+msgstr ""
+
+#: admin/admin-shortcode.php:793
+msgid "Designation Font Size"
+msgstr ""
+
+#: admin/admin-shortcode.php:803
+msgid "Choose a font size for testimonial designation."
+msgstr ""
+
+#: admin/admin-shortcode.php:815
+msgid "Designation Font Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:825
+msgid "Pick a color for testimonial givers designation."
+msgstr ""
+
+#: admin/admin-shortcode.php:837
+msgid "Designation Text Transform"
+msgstr ""
+
+#: admin/admin-shortcode.php:855
+msgid "Select Designation Text Transform"
+msgstr ""
+
+#: admin/admin-shortcode.php:867
+msgid "Designation Text Style"
+msgstr ""
+
+#: admin/admin-shortcode.php:879
+msgid "Select Designation Text style"
+msgstr ""
+
+#: admin/admin-shortcode.php:891
+msgid "Company Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:898
+msgid "Company URL Option"
+msgstr ""
+
+#: admin/admin-shortcode.php:914
+msgid ""
+"Choose one option whether you want to show or hide the company name and URL "
+"of testimonial giver."
+msgstr ""
+
+#: admin/admin-shortcode.php:924
+msgid "Company URL Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:933
+msgid "Pick a color for testimonial givers company name."
+msgstr ""
+
+#: admin/admin-shortcode.php:947
+msgid "Content Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:955
+msgid "Content Option"
+msgstr ""
+
+#: admin/admin-shortcode.php:981
+msgid "Content Font Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:990
+msgid "Pick a color for testimonial message."
+msgstr ""
+
+#: admin/admin-shortcode.php:1001
+msgid "Content Font Size"
+msgstr ""
+
+#: admin/admin-shortcode.php:1011
+msgid "Choose a font size for testimonial message."
+msgstr ""
+
+#: admin/admin-shortcode.php:1022
+msgid "Content Background Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1031
+msgid "Pick a color for content background."
+msgstr ""
+
+#: admin/admin-shortcode.php:1040
+msgid "Content Padding"
+msgstr ""
+
+#: admin/admin-shortcode.php:1048
+msgid "5px"
+msgstr ""
+
+#: admin/admin-shortcode.php:1052 admin/admin-shortcode.php:1243
+msgid "10px"
+msgstr ""
+
+#: admin/admin-shortcode.php:1056 admin/admin-shortcode.php:1247
+msgid "20px"
+msgstr ""
+
+#: admin/admin-shortcode.php:1059
+msgid "Select an option for content padding."
+msgstr ""
+
+#: admin/admin-shortcode.php:1069
+msgid "Content Border Radius"
+msgstr ""
+
+#: admin/admin-shortcode.php:1082 admin/admin-shortcode.php:1278
+msgid "1%"
+msgstr ""
+
+#: admin/admin-shortcode.php:1086 admin/admin-shortcode.php:1282
+msgid "2%"
+msgstr ""
+
+#: admin/admin-shortcode.php:1090 admin/admin-shortcode.php:1286
+msgid "3%"
+msgstr ""
+
+#: admin/admin-shortcode.php:1093
+msgid "Select an option for border radius of the content."
+msgstr ""
+
+#: admin/admin-shortcode.php:1106
+msgid "Rating Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:1113
+msgid "Rating Option"
+msgstr ""
+
+#: admin/admin-shortcode.php:1129
+msgid ""
+"Choose one option whether you want to show or hide the rating of testimonial "
+"giver."
+msgstr ""
+
+#: admin/admin-shortcode.php:1139
+msgid "Rating Icon Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1148
+msgid "Pick a color for testimonial ratings."
+msgstr ""
+
+#: admin/admin-shortcode.php:1157
+msgid "Rating Font Size"
+msgstr ""
+
+#: admin/admin-shortcode.php:1167
+msgid "Choose a font size for testimonial ratings."
+msgstr ""
+
+#: admin/admin-shortcode.php:1181
+msgid "Item Background Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:1189
+msgid "Item Background"
+msgstr ""
+
+#: admin/admin-shortcode.php:1204
+msgid ""
+"Choose one option whether you want to show or hide background color for an "
+"item."
+msgstr ""
+
+#: admin/admin-shortcode.php:1215 admin/admin-shortcode.php:1669
+msgid "Background Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1224
+msgid "Pick a color for item background."
+msgstr ""
+
+#: admin/admin-shortcode.php:1235
+msgid "Item Padding"
+msgstr ""
+
+#: admin/admin-shortcode.php:1251
+msgid "30px"
+msgstr ""
+
+#: admin/admin-shortcode.php:1254
+msgid "Select Padding for items."
+msgstr ""
+
+#: admin/admin-shortcode.php:1265
+msgid "Item Border Radius"
+msgstr ""
+
+#: admin/admin-shortcode.php:1289
+msgid "Select an option for border radius of the Item."
+msgstr ""
+
+#: admin/admin-shortcode.php:1299
+msgid "Border Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1308
+msgid "Pick a color for item border."
+msgstr ""
+
+#: admin/admin-shortcode.php:1330
+msgid "Autoplay"
+msgstr ""
+
+#: admin/admin-shortcode.php:1338 admin/admin-shortcode.php:1421
+#: admin/admin-shortcode.php:1498
+msgid "Yes"
+msgstr ""
+
+#: admin/admin-shortcode.php:1343 admin/admin-shortcode.php:1426
+#: admin/admin-shortcode.php:1503
+msgid "No"
+msgstr ""
+
+#: admin/admin-shortcode.php:1345
+msgid "Choose an option whether you want the rst_slider autoplay or not."
+msgstr ""
+
+#: admin/admin-shortcode.php:1351
+msgid "Slide Delay"
+msgstr ""
+
+#: admin/admin-shortcode.php:1367
+msgid "Select a value for sliding speed."
+msgstr ""
+
+#: admin/admin-shortcode.php:1374
+msgid "Items No"
+msgstr ""
+
+#: admin/admin-shortcode.php:1380 admin/admin-shortcode.php:1594
+msgid "3"
+msgstr ""
+
+#: admin/admin-shortcode.php:1383 admin/admin-shortcode.php:1597
+msgid "1"
+msgstr ""
+
+#: admin/admin-shortcode.php:1386 admin/admin-shortcode.php:1600
+msgid "2"
+msgstr ""
+
+#: admin/admin-shortcode.php:1389 admin/admin-shortcode.php:1603
+msgid "4"
+msgstr ""
+
+#: admin/admin-shortcode.php:1392 admin/admin-shortcode.php:1606
+msgid "5"
+msgstr ""
+
+#: admin/admin-shortcode.php:1395
+msgid "Select number of items you want to show."
+msgstr ""
+
+#: admin/admin-shortcode.php:1405
+msgid "Dots Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:1413
+msgid "Dots"
+msgstr ""
+
+#: admin/admin-shortcode.php:1429
+msgid "Choose an option whether you want dots option or not."
+msgstr ""
+
+#: admin/admin-shortcode.php:1440
+msgid "Inactive Dots Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1449
+msgid "Pick a color for Inactive Dots."
+msgstr ""
+
+#: admin/admin-shortcode.php:1458
+msgid "Active Dot Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1467
+msgid "Pick a color for Active dots."
+msgstr ""
+
+#: admin/admin-shortcode.php:1481
+msgid "Navigation Settings Area"
+msgstr ""
+
+#: admin/admin-shortcode.php:1490
+msgid "Navigation"
+msgstr ""
+
+#: admin/admin-shortcode.php:1506
+msgid "Choose an option whether you want navigation option or not."
+msgstr ""
+
+#: admin/admin-shortcode.php:1517
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1526
+msgid "Pick a color for navigation tool."
+msgstr ""
+
+#: admin/admin-shortcode.php:1535
+msgid "Navigation Background"
+msgstr ""
+
+#: admin/admin-shortcode.php:1544
+msgid "Pick a color for background of navigation tool."
+msgstr ""
+
+#: admin/admin-shortcode.php:1554
+msgid "Navigation Hover Background"
+msgstr ""
+
+#: admin/admin-shortcode.php:1563
+msgid "Pick a color for background of navigation tool in hover."
+msgstr ""
+
+#: admin/admin-shortcode.php:1584
+msgid "Grid Normal Settings ( Premium Only )"
+msgstr ""
+
+#: admin/admin-shortcode.php:1588
+msgid "Number of columns"
+msgstr ""
+
+#: admin/admin-shortcode.php:1609
+msgid "6"
+msgstr ""
+
+#: admin/admin-shortcode.php:1611
+msgid "Choose an option for posts column."
+msgstr ""
+
+#: admin/admin-shortcode.php:1617
+msgid "Filter Menu Style"
+msgstr ""
+
+#: admin/admin-shortcode.php:1624
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-shortcode.php:1627
+msgid "Checkbox"
+msgstr ""
+
+#: admin/admin-shortcode.php:1630
+msgid "Drop Down"
+msgstr ""
+
+#: admin/admin-shortcode.php:1632
+msgid "Choose an option for filter menu style."
+msgstr ""
+
+#: admin/admin-shortcode.php:1637
+msgid "Menu Styling"
+msgstr ""
+
+#: admin/admin-shortcode.php:1643
+msgid "Menu Align"
+msgstr ""
+
+#: admin/admin-shortcode.php:1663
+msgid "Choose an option for the alignment of filter menu."
+msgstr ""
+
+#: admin/admin-shortcode.php:1678
+msgid "Pick a color for filter menu background."
+msgstr ""
+
+#: admin/admin-shortcode.php:1684
+msgid "Font Color"
+msgstr ""
+
+#: admin/admin-shortcode.php:1693
+msgid "Pick a color for text of filter menu."
+msgstr ""
+
+#: admin/admin-shortcode.php:1699
+msgid "Background Color(Hover)"
+msgstr ""
+
+#: admin/admin-shortcode.php:1708 admin/admin-shortcode.php:1740
+msgid "Pick a color for filter menu background on hover."
+msgstr ""
+
+#: admin/admin-shortcode.php:1714
+msgid "Font Color(Hover)"
+msgstr ""
+
+#: admin/admin-shortcode.php:1724 admin/admin-shortcode.php:1756
+msgid "Pick a color for text of filter menu on hover."
+msgstr ""
+
+#: admin/admin-shortcode.php:1730
+msgid "Background Color(Active)"
+msgstr ""
+
+#: admin/admin-shortcode.php:1746
+msgid "Font Color(Active)"
+msgstr ""
+
+#: admin/admin-shortcode.php:1774
+msgid "Support & Documentation"
+msgstr ""
+
+#: admin/admin-shortcode.php:1779
+msgid "Need Support"
+msgstr ""
+
+#: admin/admin-shortcode.php:1782
+msgid ""
+"If you need any helps, please don't hesitate to post it on WordPress.org "
+"Support Forum or Themeix Support Forum"
+msgstr ""
+
+#: admin/admin-shortcode.php:1794
+msgid "Happy User"
+msgstr ""
+
+#: admin/admin-shortcode.php:1797
+msgid ""
+"If you are happy with the Testimonial Plugin, say it on wordpress.org and "
+"give RST Testimonial a nice review!"
+msgstr ""
+
+#: admin/admin-testimonial.php:17
+msgid "Testimonial"
+msgstr ""
+
+#: admin/admin-testimonial.php:18
+msgid "Add New"
+msgstr ""
+
+#: admin/admin-testimonial.php:19
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/admin-testimonial.php:21
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/admin-testimonial.php:22
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/admin-testimonial.php:23
+msgid "Search Testimonials"
+msgstr ""
+
+#: admin/admin-testimonial.php:24
+msgid "No Testimonials found"
+msgstr ""
+
+#: admin/admin-testimonial.php:25
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: admin/admin-testimonial.php:26
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/admin-testimonial.php:57
+msgctxt "taxonomy general name"
+msgid "Testimonial Categories"
+msgstr ""
+
+#: admin/admin-testimonial.php:58
+msgctxt "taxonomy singular name"
+msgid "Testimonial Category"
+msgstr ""
+
+#: admin/admin-testimonial.php:59
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: admin/admin-testimonial.php:60
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: admin/admin-testimonial.php:61
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: admin/admin-testimonial.php:62
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: admin/admin-testimonial.php:63
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: admin/admin-testimonial.php:64
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: admin/admin-testimonial.php:65
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: admin/admin-testimonial.php:66
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: admin/admin-testimonial.php:100 admin/rst-user-form-options.php:109
+msgid "Name"
+msgstr ""
+
+#: admin/admin-testimonial.php:101
+msgid "Image"
+msgstr ""
+
+#: admin/admin-testimonial.php:102
+msgid "Testimonial Description"
+msgstr ""
+
+#: admin/admin-testimonial.php:103 admin/rst-user-form-options.php:153
+msgid "Rating"
+msgstr ""
+
+#: admin/admin-testimonial.php:104
+msgid "Position"
+msgstr ""
+
+#: admin/admin-testimonial.php:125
+msgid "None"
+msgstr ""
+
+#: admin/admin-testimonial.php:240
+msgid "Name:"
+msgstr ""
+
+#: admin/admin-testimonial.php:248
+msgid "Position:"
+msgstr ""
+
+#: admin/admin-testimonial.php:256
+msgid "Company Name:"
+msgstr ""
+
+#: admin/admin-testimonial.php:264
+msgid "Company URL:"
+msgstr ""
+
+#: admin/admin-testimonial.php:269
+msgid "Example: (www.example.com)"
+msgstr ""
+
+#: admin/admin-testimonial.php:274
+msgid "Link Target:"
+msgstr ""
+
+#: admin/admin-testimonial.php:280
+msgid "blank"
+msgstr ""
+
+#: admin/admin-testimonial.php:283
+msgid "self"
+msgstr ""
+
+#: admin/admin-testimonial.php:289
+msgid "Rating:"
+msgstr ""
+
+#: admin/admin-testimonial.php:294
+msgid "5 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:297
+msgid "4.5 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:300
+msgid "4 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:303
+msgid "3.5 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:306
+msgid "3 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:309
+msgid "2 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:312
+msgid "1 Star"
+msgstr ""
+
+#: admin/admin-testimonial.php:319
+msgid "Testimonial Text:"
+msgstr ""
+
+#: admin/doc-sucpport.php:18
+msgid "Welcome to Really Simple Testimonial"
+msgstr ""
+
+#: admin/rst-user-form-options.php:69
+msgid "User Form"
+msgstr ""
+
+#: admin/rst-user-form-options.php:69
+msgid "Frontend Submission"
+msgstr ""
+
+#: admin/rst-user-form-options.php:81
+msgid "Testimonial Submission Form :"
+msgstr ""
+
+#: admin/rst-user-form-options.php:91
+msgid "Available Only Premium Version:"
+msgstr ""
+
+#: admin/rst-user-form-options.php:120
+msgid "Designation"
+msgstr ""
+
+#: admin/rst-user-form-options.php:131
+msgid "Company Name"
+msgstr ""
+
+#: admin/rst-user-form-options.php:142
+msgid "Company URL"
+msgstr ""
+
+#: admin/rst-user-form-options.php:164
+msgid "Testimonial Message"
+msgstr ""
+
+#: admin/rst-user-form-options.php:185
+msgid "User's Image/Logo"
+msgstr ""
+
+#: admin/rst-user-form-options.php:196
+msgid "User's Captcha"
+msgstr ""
+
+#: admin/rst-user-form-options.php:205
+msgid "Select post status"
+msgstr ""
+
+#: admin/rst-user-form-options.php:223
+msgid "Submit button text"
+msgstr ""
+
+#: admin/rst-user-form-options.php:231
+msgid "Testimonial Error and success messages for public users"
+msgstr ""
+
+#: admin/rst-user-form-options.php:235
+msgid "Data saved success message"
+msgstr ""
+
+#: admin/rst-user-form-options.php:244
+msgid "Data saved error message"
+msgstr ""
+
+#: admin/rst-user-form-options.php:253
+msgid "File type mishmatch message"
+msgstr ""
+
+#: admin/rst-user-form-options.php:262
+msgid "Calculation error message"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RST Testimonial"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://rst.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Testimonial Plugin for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "rst"
+msgstr ""
